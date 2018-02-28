@@ -53,6 +53,6 @@ Primarily use // for commenting inside methods. We won't use a new line to begin
 * Julian Nazareth
 *
 *
-*
+* Michael Miranda
 *
 *
