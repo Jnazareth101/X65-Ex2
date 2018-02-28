@@ -52,7 +52,7 @@ Primarily use // for commenting inside methods. We won't use a new line to begin
 ### Signed by
 * Julian Nazareth
 * Theodore Montalbano
-*
+* Langston Nashold
 * Michael Miranda
 *
 *
