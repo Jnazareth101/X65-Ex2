@@ -9,9 +9,9 @@
        * GitHub username 4: mmiranda2
        * GitHub username 5: lgnashold
    * When did you complete this exercise? 
-        February 27th, 2018 around 7PM
+        * February 27th, 2018 around 7PM
    * How long did it take your team to complete this exercise? 
-        It took about 45 minutes.
+        * It took about 45 minutes.
 
 ## Table of Contents
 
