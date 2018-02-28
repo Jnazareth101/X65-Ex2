@@ -33,3 +33,12 @@ Primarily use // for commenting inside methods. We won't use a new line to begin
   * while loops
   * for loops
   * enhanced for loops
+  
+```
+/**
+ * Method Header
+ */
+ public method() {
+// in line comments
+}
+```
