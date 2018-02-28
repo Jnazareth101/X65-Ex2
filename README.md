@@ -6,7 +6,7 @@
        * GitHub username 1: AdityaNese
        * Github username 2: Jnazareth107
        * GitHub username 3: TheodoreMontalbano
-       * GitHub username 4:
+       * GitHub username 4: mmiranda2
        * GitHub username 5:
    * When did you complete this exercise? 
    * How long did it take your team to complete this exercise? 
