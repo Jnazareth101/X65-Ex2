@@ -14,7 +14,9 @@ We will order ourselves and assign methods/ tasks to each of us based on volunte
 
 ## How will we will track progress (and follow-up) on completion of tasks
 We will use To-Do using Eclipse and To-Do list on Github and verify with others.
-
+#### Example Todo list:
+- [X] Finished Task
+- [ ] Task still not completed
 
 ## How will will communicate difficulties with a task assigned to us
 Ask for help using our snapchat group and use pictures if necessary to help each other get a proper solution.
