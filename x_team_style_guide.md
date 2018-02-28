@@ -1,10 +1,10 @@
-# X-Team NN Style Guide
+# X-Team 65 Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+We are all using similar style guides to prevent spaces vs tabs, using tabs primarily. 
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+We will name variables and methods based on what they do/ what they are, using comments if necessary. Keeping local variables and instantiated variables the same name, using this. to keep track of the variables.
 
 ### Examples
 * interfaces
@@ -19,7 +19,7 @@
 
 ## Commenting style for public and private members of a class or interface:
 
-<brief statement of your team's commenting style>
+Primarily use // for commenting inside methods. We won't use a new line to begin the opening brace for a method. We will tab in spacing for methods/statements within classes. We won't be using terniary statements as much in our coding.
 
 ### Examples
 
