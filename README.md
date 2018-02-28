@@ -7,7 +7,7 @@
        * Github username 2: Jnazareth107
        * GitHub username 3: TheodoreMontalbano
        * GitHub username 4: mmiranda2
-       * GitHub username 5:
+       * GitHub username 5: lgnashold
    * When did you complete this exercise? 
    * How long did it take your team to complete this exercise? 
 
