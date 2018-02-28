@@ -30,7 +30,7 @@ Make sure to tell the others in our group when we can do the work assigned and v
 * Michael Miranda
 * Langston Nashold
 * Theodore Montalbano
-*
+* Aditya Nese
 *
 
 
