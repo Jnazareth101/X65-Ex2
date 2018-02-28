@@ -25,6 +25,12 @@ Ask for help using our snapchat group and use pictures if necessary to help each
 ## How we will back up each other to ensure that deadlines are not missed
 Make sure to tell the others in our group when we can do the work assigned and verify work is done with others. We will also check each others work a few days prior to debug and make sure our work parts are functional.
 
-
+## Signed by
+*Julian Nazareth
+*
+*
+*
+*
+*
 
 
