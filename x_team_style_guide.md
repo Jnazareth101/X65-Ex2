@@ -11,14 +11,23 @@ We will name variables and methods based on what they do/ what they are, using c
 
 ### Examples
 * interfaces
+  * ```public interface TreeADT```
 * classes
+  * ```public class RBTree```
 * exception types
+  * ```public class DuplicateKeyException()```
 * fields
+  * ```private Treenode root```
 * methods
+  * ```public static void methodName();```
 * parameters
+  * ```public method(int descriptiveName, Integer descriptiveName)```
 * local variables
+  * ```int size = 0;```
 * instance constants
+  * ```public final int MAX_VALUE```
 * class constants
+  * ```public static final int MAX_SIZE = 0;```
 
 ## Commenting style for public and private members of a class or interface:
 
@@ -27,16 +36,28 @@ Primarily use // for commenting inside methods. We won't use a new line to begin
 ### Examples
 
 * classes
+```
+/**
+ * Description of the class, with useful information about implementation.
+ * @author Group name
+ */
+ ```
 * fields
+```
+/**Description of field*/
+private Treenode root;
+```
 * constructors
+```
+/**
+ * Description of what constructor does
+ * @param Description of paramter
+ */
+ public ClassName() {
+// in line comments
+}
+```
 * methods
-* coding style (brackets, horizontal, and vertical spacing) for:
-  * if statements
-  * switch statement
-  * while loops
-  * for loops
-  * enhanced for loops
-  
 ```javascript
 /**
  * Method Header
@@ -45,6 +66,40 @@ Primarily use // for commenting inside methods. We won't use a new line to begin
 // in line comments
 }
 ```
+* coding style (brackets, horizontal, and vertical spacing) for:
+  * if statements
+  ```
+  if(x > 0) {
+          // Code
+  }
+  ```
+  * switch statement
+  ```
+  switch(variable) {
+      case 1: System.out.println("one");
+          break;
+      default: // statement
+          break;
+  ```
+  * while loops
+  ```
+      while(condition) {
+          // Statement
+      }
+  ```
+  * for loops
+  ```
+  for(int i=0; i<100; i++) {
+      // Statements
+  }
+  ```
+  * enhanced for loops (for each loops)
+  ```
+  for(String s: stringArray) {
+       System.out.println(s);
+  }
+  ```
+
 
 
 
