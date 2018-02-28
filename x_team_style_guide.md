@@ -1,5 +1,8 @@
 # X-Team 65 Style Guide
 
+
+
+
 We are all using similar style guides to prevent spaces vs tabs, using tabs primarily. 
 
 ## Naming conventions
@@ -42,3 +45,14 @@ Primarily use // for commenting inside methods. We won't use a new line to begin
 // in line comments
 }
 ```
+
+
+
+
+### Signed by
+* Julian Nazareth
+*
+*
+*
+*
+*
