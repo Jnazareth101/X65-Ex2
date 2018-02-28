@@ -3,7 +3,7 @@
 
 
 
-We are all using similar style guides to prevent spaces vs tabs, using tabs primarily. 
+We are all using similar style guides to prevent spaces vs tabs, using tabs primarily. Our goal is readablity and consistency.
 
 ## Naming conventions
 
