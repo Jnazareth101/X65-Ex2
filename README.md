@@ -28,3 +28,11 @@
 * README.md
 * x_team_rules.md
 * x_style_guide.md
+
+
+
+## Things to do
+ * Shortest Path Algorithm (Teddy and Julian)
+ * Testing (Michael)
+ * Is Adjacent Method(Aditya)
+ * 
